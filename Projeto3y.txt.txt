@@ -3,3 +3,4 @@ Loguei minha conta, Baixei o Git for Windows,
 Aceitei tudo que ele pedia, Fiz o dowload, Criei uma pasta chamada "VERS3Y", 
 Cliquei com o botão direito do mouse em cima da pagina,
 Criei ess arquivo e agora to escrevendo isso
+aaa
